@@ -13,8 +13,8 @@ timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: https://buleskyssr.github.io/
-root: /Buleskyssr.github.io
+url: http://buleskyssr.fun/
+root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -105,11 +105,11 @@ live2d:
   enable: true   #开启宠物
   scriptFrom: local
   model:
-    use: live2d-widget-model-shizuku
+    use: live2d-widget-model-hibiki
   display:
     position: right   #指定宠物显示的位置
-    width: 250    #指定宠物显示的宽度
-    height: 400   #指定宠物显示的高度
+    width: 200    #指定宠物显示的宽度
+    height: 425   #指定宠物显示的高度
   mobile:
     show: true  #是否在手机上显示
 
@@ -134,3 +134,7 @@ symbols_count_time:
  # 网页底部是否显示
   total_symbols: true
   total_time: true
+
+  aplayer:
+    meting: true
+    asset_inject: false

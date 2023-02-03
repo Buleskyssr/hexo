@@ -1,0 +1,102 @@
+---
+title: C语言笔记
+---
+Welcome to [my blog](https://buleskyssr.github.io)! 
+
+#DAY ONE
+
+## 1.基本数据类型
+
+①![avatar](http://img.mukewang.com/552b3d930001acdd04260268.jpg)
+<!--more-->
+②![avatar](http://img.mukewang.com/547fd0af0001b55b06300091.jpg)
+
+③![avatar](http://img.mukewang.com/547fd1250001132307420082.jpg)
+
+
+## 2.格式化输出语句
+
+①![avatar](http://img.mukewang.com/54856b620001e2ad04880099.jpg)
+
+②![avatar](http://img.mukewang.com/5492b6b5000145f904050080.jpg)
+
+## 3.不可改变的常量
+
+![avatar](http://img.mukewang.com/5492b73b0001169f03890127.jpg
+)
+
+## 4.自动类型转换
+
+![avatar](http://img.mukewang.com/5492b85b000170bb03460093.jpg)
+
+## 5.强制类型转换
+
+![avatar](http://img.mukewang.com/5492b8960001b56b03870081.jpg)
+
+#DAY TWO
+
+## 1.算术运算符
+
+![avatar](http://img.mukewang.com/54ac8dfb000126ad04510145.jpg)
+
+## 2.自增与自减运算符
+
+![avatar](http://img.mukewang.com/548043a400012aa904320091.jpg)
+
+## 3.赋值运算符
+
+![avatar](http://img.mukewang.com/5492bd4700016e9103370083.jpg)
+
+## 4.关系运算符
+
+![avatar](http://img.mukewang.com/5481551100017fbe04250141.jpg)
+
+## 5.逻辑运算符
+
+![avatar](http://img.mukewang.com/54816483000195a203180087.jpg)
+
+## 6.三目运算符
+
+![avatar](http://img.mukewang.com/5492be2d0001946603740216.jpg)
+
+## 7.运算符优先级
+![avatar](http://img.mukewang.com/54817fa90001654403370200.jpg)
+
+## 8.分支结构if语句
+①
+
+![avatar](http://img.mukewang.com/548659da0001366201430091.jpg)
+
+②
+
+![avatar](http://img.mukewang.com/54866bf70001756a01630159.jpg)
+
+③
+
+![avatar](http://img.mukewang.com/5492c06d000183c403260229.jpg)
+
+④
+
+![avatr](http://img.mukewang.com/5486bce0000158c801820300.jpg)
+
+#DAY Three
+
+## 1.循环结构之while循环
+
+![avatar](http://img.mukewang.com/5493d2860001d5b403450113.jpg)
+
+## 2.循环结构之do-while循环
+
+![avatar](http://img.mukewang.com/548819f20001d4a503140091.jpg)
+
+![avatar](http://img.mukewang.com/5493d2b400013ad103470109.jpg)
+
+## 3.循环结构之for循环(一)
+![avatar](http://img.mukewang.com/549c0bce0001a0e404290203.jpg)
+
+![avatar](http://img.mukewang.com/5493d2e30001dc0103510095.jpg)
+
+## 4.循环结构之for循环(二)
+
+![avatar](http://img.mukewang.com/54893b9000018c6d05260127.jpg)
+
